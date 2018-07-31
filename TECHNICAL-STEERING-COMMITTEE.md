@@ -1,11 +1,11 @@
 # Governance Overview
  
-The Open Design Build Operate community (OpenDBO, ODBO) is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s tool suite. 
+The Open Design Build Operate community (OpenDBO, ODBO) is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s products. 
  
 ## Technical Steering Committee
  
 The Technical Steering Committee (TSC) is responsible for high-level technical direction of their project. The TSC has authority over all technical aspects including:
-* Roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
+* Roadmap (standards or feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
@@ -15,7 +15,7 @@ Wherever possible, the TSCs should choose shared policies and infrastructure whi
 Although the TSC may update the TSC governance (e.g. this document) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODBO project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
  
 The current list of TSC members are:
-* FirstName Lastename [@githubusername](https://github.com/githubusername), [CompanyOrPersonalWebsiteName](http://url.com/)
+* FirstName Lastename [@githubusername](https://github.com/githubusername), [CompanyOrPersonalWebsiteName](http://url.com/), DateJoined
  
 ## Committers
 
@@ -60,7 +60,7 @@ The TSC will meet regularly (generally every two weeks). The meeting will be run
  
 The TSC will default to working in public, but sensitive topics (e.g., pre-disclosure security problems, confidential pre-agreement discussions with third parties, personal conflicts among personnel) should only be discussed on private channels.
  
-Items typically discussed by the TSC include project roadmap, feature addition/removal, etc. Items are added to the TSC agenda which are considered contentious or are modifications of governance, contribution policy, TSC membership, or release process. Working Groups that the TSC forms may also add items to the TSC agenda.
+Items typically discussed by the TSC include project roadmap, standards and feature addition/removal, etc. Items are added to the TSC agenda which are considered contentious or are modifications of governance, contribution policy, TSC membership, or release process. Working Groups that the TSC forms may also add items to the TSC agenda.
  
 The intention of the agenda is not to approve or review modifications to project resources. That should happen continuously on the relevant resources and are handled by the larger group of Committers.
  
@@ -79,3 +79,6 @@ For internal project decisions, Committers shall operate under Lazy Consensus. T
 The TSC follows a Consensus Seeking decision-making model. When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
  
 If an agenda item cannot reach a consensus, a TSC member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be approved by a majority of the TSC or else the discussion will continue. If all members of the TSC are not present during the meeting for contentious issues, the final vote should happen asynchronously (e.g., via email). Simple majority wins.
+
+## <a name="attribution"></a>Attribution
+This a derivative work of [Open Data Kit](https://github.com/opendatakit) and by extension the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
