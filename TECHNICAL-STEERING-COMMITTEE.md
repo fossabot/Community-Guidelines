@@ -1,8 +1,8 @@
-**Governance Overview**
+#Governance Overview
  
 The Open Design Build Operate community (OpenDBO, ODBO) is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s tool suite. 
  
-**Technical Steering Committee**
+##Technical Steering Committee
  
 The Technical Steering Committee (TSC) is responsible for high-level technical direction of their project. The TSC has authority over all technical aspects including:
 * Roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
@@ -17,7 +17,7 @@ Although the TSC may update the TSC governance (e.g. this document) as it finds 
 The current list of TSC members are:
 * FirstName Lastename [@githubusername](https://github.com/githubusername), [CompanyOrPersonalWebsiteName](http://url.com/)
  
-**Committers**
+##Committers
 
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Commit/write access allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources.
  
@@ -34,7 +34,7 @@ Committers may opt to elevate significant or controversial modifications or modi
 The current list of Committers is here:
 * [https://github.com/orgs/opendbo/people](https://github.com/orgs/opendbo/people)
 
-**TSC Membership**
+##TSC Membership
  
 TSC will be elected via a public application process. The application requirements will focus on relevant experience, contributions to the project ecosystem, and availability to guide technical parts of the project. 
  
@@ -54,7 +54,7 @@ No more than 1/3 of the TSC members may be affiliated with the same organization
  
 Changes to TSC membership should be posted in the agenda, and may be suggested as any other agenda item.
  
-**TSC Meetings**
+##TSC Meetings
  
 The TSC will meet regularly (generally every two weeks). The meeting will be run by a moderator chosen by the TSC and each meeting will be conducted and published for public access to the OpenDBO Github site. Meeting frequency, times, agenda, and notes will also be published for public access to the OpenDBO Github site.
  
@@ -72,7 +72,7 @@ The TSC may invite non-members to participate in a non-voting capacity. These in
  
 The moderator is responsible for summarizing the discussion of each agenda item and for publishing it for public access to the OpenDBO Github site. If appropriate, the moderator will also update the relevant issue, pull request or forum post.
  
-**Decision Making**
+##Decision Making
 
 For internal project decisions, Committers shall operate under Lazy Consensus. The TSC shall establish appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods).
  
