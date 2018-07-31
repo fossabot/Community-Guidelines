@@ -1,3 +1,5 @@
+# TO BE MODIFIED TO MATCH ODBO GOVERNANCE NEEDS
+
 # Mission and Values
 
 The Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
