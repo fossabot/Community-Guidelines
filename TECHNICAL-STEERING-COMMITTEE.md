@@ -1,34 +1,24 @@
 **Governance Overview**
  
-The Open Data Kit (ODK) project is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s tool suite. 
- 
-_Note: As ODK transitions out of the University of Washington, the current PMC’s authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSC will remain active throughout the transition process and post-transition._
+The Open Design Build Operate community (OpenDBO, ODBO) is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s tool suite. 
  
 **Technical Steering Committee**
  
-The Technical Steering Committee (TSC) is responsible for high-level technical direction of their  tool suite. The TSC has authority over all technical aspects including:
-* Suite roadmap (feature addition/removal, tool addition/removal,incorporating community feedback,etc.).
+The Technical Steering Committee (TSC) is responsible for high-level technical direction of their project. The TSC has authority over all technical aspects including:
+* Roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
  
-Wherever possible, the TSCs should choose shared policies and infrastructure which allow for consistent process, but administrative separation across tool suites. In the case where the TSCs cannot reach consensus on policies and infrastructure, the final decision will be made by a majority vote by the PMC.
+Wherever possible, the TSCs should choose shared policies and infrastructure which allow for consistent process, but administrative separation across projects. In the case where the TSCs cannot reach consensus on policies and infrastructure, the final decision will be made by a majority vote by the PMC.
  
-Although the TSC may update the TSC governance (e.g. this document) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODK project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
+Although the TSC may update the TSC governance (e.g. this document) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODBO project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
  
 The current list of TSC members are:
-* Shobhit Agarwal [@shobhitagarwal1612](https://github.com/shobhitagarwal1612), [Tonbo Imaging](http://www.tonboimaging.com/)
-* Alex Anderson [@alxndrsn](https://github.com/alxndrsn), [Medic Mobile](https://medicmobile.org/)
-* Yaw Anokwa [@yanokwa](https://github.com/yanokwa), [Nafundi](http://nafundi.com/)
-* Brent Atkinson [@batkinson](https://github.com/batkinson), [Medical Care Development International](http://www.mcdinternational.org/)
-* Adam Butler [@adamvert](https://github.com/adamvert), [eHealth Africa](https://www.ehealthafrica.org/)
-* Aurelio Di Pasquale [@aurdipas](https://github.com/aurdipas), [Swiss Tropical and Public Health Institute](https://www.swisstph.ch)
-* Hélène Martin [@lognaturel](https://github.com/lognaturel), [Nafundi](http://nafundi.com/)
-* Tom Smyth [@hooverlunch](https://github.com/hooverlunch), [Sassafras Tech Collective](http://sassafras.coop/)
-* Dickson Ukang’a [@ukanga](https://github.com/ukanga), [Ona](https://ona.io/)
+* FirstName Lastename [@githubusername](https://github.com/githubusername), [CompanyOrPersonalWebsiteName](http://url.com/)
  
 **Committers**
- 
+
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Commit/write access allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources.
  
 The project’s technical resources are managed by the TSC. Individuals making significant and valuable contributions are made Committers and given commit or write access to those resources. These individuals are identified by the TSC and their addition as Committers is discussed during the regular TSC meeting. The process for identifying and granting Committer access is determined by the TSC.
@@ -42,7 +32,7 @@ In the case of changes proposed by an existing Committer, an additional Committe
 Committers may opt to elevate significant or controversial modifications or modifications that have not found consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue or forum post. The TSC should serve as the final arbiter where required.
  
 The current list of Committers is here:
-* [https://github.com/orgs/opendatakit/people](https://github.com/orgs/opendatakit/people)
+* [https://github.com/orgs/opendbo/people](https://github.com/orgs/opendbo/people)
 
 **TSC Membership**
  
@@ -58,7 +48,7 @@ There is no specific set of requirements or qualifications for TSC membership be
  
 The TSC may add additional members to the TSC by a standard TSC motion. A TSC member may be removed from the TSC by voluntary resignation, or by a 2/3rds majority (rounded up). 
  
-TSC members are expected to regularly participate in TSC activities. Members who have not consistently taken meaningful actions as TSC members in the past 3 months will be considered for removal. Examples of meaningful actions are participating regularly in calls, reviewing code, committing code, providing technical mentorship, leading working groups, etc.
+TSC members are expected to regularly participate in TSC activities. Members who have not consistently taken meaningful actions as TSC members in the past 3 months will be considered for removal. Examples of meaningful actions are participating regularly in calls, reviewing content, committing content, providing technical mentorship, leading working groups, etc.
  
 No more than 1/3 of the TSC members may be affiliated with the same organization. If removal or resignation of a TSC member, or a change of employment by a TSC member, creates a situation where more than 1/2 of the TSC membership belong to the same organization, the situation must be immediately remedied by the resignation or removal of one or more TSC members affiliated with the over-represented organization(s).
  
@@ -66,7 +56,7 @@ Changes to TSC membership should be posted in the agenda, and may be suggested a
  
 **TSC Meetings**
  
-The TSC will meet regularly (generally every two weeks). The meeting will be run by a moderator chosen by the TSC and each meeting will be conducted and published to a publicly accessible platform (e.g., YouTube). Meeting frequency, times, agenda, and notes will also be published to a publicly accessible platform (e.g., the forum, Google Docs).
+The TSC will meet regularly (generally every two weeks). The meeting will be run by a moderator chosen by the TSC and each meeting will be conducted and published for public access to the OpenDBO Github site. Meeting frequency, times, agenda, and notes will also be published for public access to the OpenDBO Github site.
  
 The TSC will default to working in public, but sensitive topics (e.g., pre-disclosure security problems, confidential pre-agreement discussions with third parties, personal conflicts among personnel) should only be discussed on private channels.
  
@@ -80,7 +70,7 @@ Prior to each TSC meeting, the moderator will share the agenda with members of t
  
 The TSC may invite non-members to participate in a non-voting capacity. These invitees will be listed on the agenda.
  
-The moderator is responsible for summarizing the discussion of each agenda item and publishing it on a publicly accessible platform (e.g., the forum). If appropriate, the moderator will also update the relevant issue, pull request or forum post.
+The moderator is responsible for summarizing the discussion of each agenda item and for publishing it for public access to the OpenDBO Github site. If appropriate, the moderator will also update the relevant issue, pull request or forum post.
  
 **Decision Making**
 
