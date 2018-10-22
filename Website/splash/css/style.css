@@ -54,7 +54,7 @@ a, a:hover, a:active{ outline:0px !important}
 /* Primary Styles
 ---------------------------------*/
 body {
-	background:#fff;
+	background:url(../img/pw_maze_black_2X.png) left top repeat;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	font-weight:normal;
@@ -97,7 +97,6 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
 	padding:120px 0;
 }
 .logo{
